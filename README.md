@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Residential Property Price Trends: China vs India" width="100%" />
+</p>
+
 # Residential Property Price Trends (2016 – 2026): China vs. India
 
 A comparative analysis of residential property price indices across **China** and **India** using authoritative data from the **Bank for International Settlements (BIS)** via the **Federal Reserve Bank of St. Louis (FRED)** database.
